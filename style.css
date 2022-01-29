@@ -1,0 +1,16 @@
+.wrapper {
+  color: brown;
+}
+header {
+  font-weight: bold;
+  color: brown;
+}
+
+hero {
+  min-height: 80vh;
+  background: url(./hg.jpg) no-repeat center center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
