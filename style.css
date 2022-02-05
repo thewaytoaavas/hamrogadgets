@@ -39,6 +39,7 @@ header {
 .menu ul {
   list-style: none;
   display: flex;
+  padding: ;
 }
 .menu ul li {
   margin: 16px;
